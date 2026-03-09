@@ -6,9 +6,7 @@ public class createTopic {
         dirName = folderName;
     }
     public void createDir(){
-        System.out.println("/"+dirName);
         File folder = new File("resources/"+dirName);
-        System.out.println(folder.getAbsolutePath());
         if(folder.mkdir()){
             System.out.println(folder.getAbsolutePath());
             System.out.println("New topic created");
