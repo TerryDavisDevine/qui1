@@ -1,6 +1,0 @@
-What is the name of the language this program was written in?
-What is polymorphism?
-giving two methods the same name but with different parameters is known as what?
-replacing a method in a sub-class with a different method body is called what?
-what is the syntax for a foreach loop (include the curly braces just as '{}')
-what is bigger, a float or a double?
